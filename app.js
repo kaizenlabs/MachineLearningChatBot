@@ -1,4 +1,4 @@
-var builder = require('../../');
+var builder = require('./');
 var prompts = require('./prompts');
 
 
