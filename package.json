@@ -1,0 +1,27 @@
+{
+  "name": "companybot",
+  "version": "1.0.0",
+  "description": "This Bot demonstrates how to implement simple multi-turns using waterfalls. By",
+  "main": "multi-turn we mean supporting scenarios where a user asks a question about ",
+  "scripts": {
+    "test": "sample shows a simple way to use session.dialogState to do just that."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JohnAntonusMaximus/MachineLearningChatBot.git"
+  },
+  "keywords": [
+    "machine",
+    "learning",
+    "bot",
+    "artificial",
+    "intelligence",
+    "nodejs"
+  ],
+  "author": "John Radosta",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JohnAntonusMaximus/MachineLearningChatBot/issues"
+  },
+  "homepage": "https://github.com/JohnAntonusMaximus/MachineLearningChatBot#readme"
+}
